@@ -38138,7 +38138,7 @@ var ZFooter = function (_React$Component) {
                     _react2.default.createElement(
                       'b',
                       null,
-                      ' MY.bitzec.github.io'
+                      ' bitcoinbzc.github.io'
                     )
                   ),
                   _react2.default.createElement(
