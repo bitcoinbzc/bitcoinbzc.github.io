@@ -9,12 +9,12 @@
 	<translation id="faq1a">Q: As minhas chaves de seguraça privadas estão seguras?</translation>
 	<translation id="faq1b">R: Sim, eles estão protegidos, suas chaves privadas nunca saem do seu navegador.</translation>
 	<translation id="faq2a">P: Como isso é seguro? Está em um navegador da internet!</translation>
-	<translation id="faq2b">R: A carteira MyZelcash replicou os principais recursos de Zelcash daemon em JavaScript! Portanto, o processo de criação e assinatura das transações é feito no navegador. Nenhuma informação confidencial é enviada através da rede.</translation>
+	<translation id="faq2b">R: A carteira Bitzec webtx replicou os principais recursos de Zelcash daemon em JavaScript! Portanto, o processo de criação e assinatura das transações é feito no navegador. Nenhuma informação confidencial é enviada através da rede.</translation>
 	<translation id="faq3a">P: Posso ter o código-fonte?</translation>
 	<translation id="faq3b">R:</translation>
 	<translation id="faq3b">Aqui está</translation>
 	<translation id="faq4a">P: Por que você está fazendo isso?</translation>
-	<translation id="faq4b">R: A carteira MyZelcash foi inspirada por"</translation>
+	<translation id="faq4b">R: A carteira Bitzec webtx foi inspirada por"</translation>
 	<translation id="faq4c">MyZenWallet's</translation>
 	<translation id="faq4d">que foi inspirada por</translation>
 	<translation id="faq4e">MyEtherWallet's.</translation>

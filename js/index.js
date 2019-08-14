@@ -52121,7 +52121,7 @@ var ZWallet = function (_React$Component10) {
               _react2.default.createElement(
                 'span',
                 { className: 'main1' },
-                'MyZelcash Wallet'
+                'Bitzec webtx Wallet'
               ),
               '\xA0',
               _react2.default.createElement(ToolTipButton, { onClick: this.toggleShowSettings, id: 1, buttonText: _react2.default.createElement(_settings3.default, null), tooltipText: 'settings' }),

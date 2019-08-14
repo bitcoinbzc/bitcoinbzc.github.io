@@ -31648,7 +31648,7 @@ var ZFaq = function (_React$Component) {
               _react2.default.createElement(
                 'span',
                 { className: 'faq2b' },
-                'A: MyZelcash Wallet has replicated the core features of the Zelcash daemon in JavaScript! So the process of creating and signing the transactions are all done within the browser. No sensitive information is sent through the network.'
+                'A: Bitzec webtx Wallet has replicated the core features of the Zelcash daemon in JavaScript! So the process of creating and signing the transactions are all done within the browser. No sensitive information is sent through the network.'
               )
             ),
             _react2.default.createElement(
@@ -31696,7 +31696,7 @@ var ZFaq = function (_React$Component) {
               _react2.default.createElement(
                 'span',
                 { className: 'faq4b' },
-                'A: MyZelcash Wallet was inspired by'
+                'A: Bitzec webtx Wallet was inspired by'
               ),
               ' ',
               _react2.default.createElement(

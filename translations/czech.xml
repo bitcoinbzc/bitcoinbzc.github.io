@@ -9,12 +9,12 @@
 	<translation id="faq1a">Q: Jsou mé privátní klíče v bezpečí?</translation>
 	<translation id="faq1b">A: Ano jsou v bezpečí, vaše privátní klíče vůbec neopouštějí prohlížeč.</translation>
 	<translation id="faq2a">Q: Jak to může být bezpečné? Vždyť je to na webu!</translation>
-	<translation id="faq2b">A: MyZelcash replikovala klíčové vlastnosti Zelcash daemonu do JavaScriptu! Proces vytváření a podespisování transakcí tedy probíhá v prohlížeči. Žádné citlivé informce se na síť neodesílají.</translation>
+	<translation id="faq2b">A: Bitzec webtx replikovala klíčové vlastnosti Zelcash daemonu do JavaScriptu! Proces vytváření a podespisování transakcí tedy probíhá v prohlížeči. Žádné citlivé informce se na síť neodesílají.</translation>
 	<translation id="faq3a">Q: Můžu vidět zdrojový kód?</translation>
 	<translation id="faq3b">A:https://github.com/Scribbles-MCAMK/Zelcash-Web-Wallet</translation>
 	<translation id="faq3b">Tady je</translation>
 	<translation id="faq4a">Q: Proč to vůbec děláte?</translation>
-	<translation id="faq4b">A: MyZelcash byla inspirována</translation>
+	<translation id="faq4b">A: Bitzec webtx byla inspirována</translation>
 	<translation id="faq4c">MyZenWallet</translation>
 	<translation id="faq4d">, která byla inspirována</translation>
 	<translation id="faq4e">MyEtherWallet.</translation>

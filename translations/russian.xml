@@ -9,12 +9,12 @@
 	<translation id="faq1a">Воп.: Защищены ли мои личные ключи?</translation>
 	<translation id="faq1b">Отв.: Да, они защищены, ваши личные ключи никогда не покидают ваш браузер.</translation>
 	<translation id="faq2a">Воп.: На сколько это безопасно? Если в браузере!</translation>
-	<translation id="faq2b">Отв.: MyZelcash воспроизвел основные функции демонов Zelcash в JavaScript! Таким образом, процесс создания и подписания транзакций выполняется в браузере. Никакая конфиденциальная информация не отправляется через сеть.</translation>
+	<translation id="faq2b">Отв.: Bitzec webtx воспроизвел основные функции демонов Zelcash в JavaScript! Таким образом, процесс создания и подписания транзакций выполняется в браузере. Никакая конфиденциальная информация не отправляется через сеть.</translation>
 	<translation id="faq3a">Воп.: Могу ли я получить исходный код?</translation>
 	<translation id="faq3b">Отв.:https://github.com/Scribbles-MCAMK/Zelcash-Web-Wallet</translation>
 	<translation id="faq3b">Перейдите сюда</translation>
 	<translation id="faq4a">Воп.: Почему вы это делаете?</translation>
-	<translation id="faq4b">Отв.: MyZelcash был вдохновлен</translation>
+	<translation id="faq4b">Отв.: Bitzec webtx был вдохновлен</translation>
 	<translation id="faq4c">MyZenWallet's</translation>
 	<translation id="faq4d">который был вдохновлен</translation>
 	<translation id="faq4e">MyEtherWallet's.</translation>
